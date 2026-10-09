@@ -114,7 +114,7 @@ customer-acquisition-funnel-analysis/
 3. Open `analysis/funnel_analysis.ipynb`.
 4. Run the notebook from top to bottom.
 
-The notebook expects the workbook at `data/marketing_performance_case.xlsx`.
+The notebook expects the workbook at `data/customer_funnel_data.xlsx`.
 
 ## Why I included this project
 
